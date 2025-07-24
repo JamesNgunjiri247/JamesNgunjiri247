@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** with
 ## 🛠️ Tech Stack
 
 - **Languages:** PHP, Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** [List any frameworks you use, e.g., Laravel, React, Django]
-- **Tools:** Git, GitHub, [Add your favorite tools, e.g., Figma, Photoshop]
+- **Frameworks/Libraries:** Laravel, React, Django
+- **Tools:** Git, GitHub,Figma, Photoshop
 
 ## 🌟 What I Do
 
