@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James Ngunjiri
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** with expertise in **PHP, HTML, CSS, JavaScript, and Python**. I love building robust web applications, designing creative digital experiences, and empowering brands through technology.
+Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** with expertise in **ReactJS, Node.js, Supabase, and modern web technologies**. I love building robust web applications, designing creative digital experiences, and empowering brands through technology.
 
 ## 🚀 About Me
 
@@ -11,13 +11,18 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** with
 
 ## 🛠️ Tech Stack
 
-- **Languages:** PHP, Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** Laravel, React, Django
-- **Tools:** Git, GitHub,Figma, Photoshop
+- **Frontend:** ReactJS, HTML, CSS, JavaScript
+- **Backend:** Node.js, Supabase
+- **Real-time:** Firebase, WebSocket
+- **DevOps/CI/CD:** GitHub Actions
+- **Design Tools:** Figma, Photoshop
+- **Version Control:** Git, GitHub
 
 ## 🌟 What I Do
 
-- Build and maintain dynamic websites and web applications
+- Build modern, responsive web applications with React and Node.js
+- Develop real-time applications using WebSocket and Firebase
+- Implement automated CI/CD pipelines with GitHub Actions
 - Design eye-catching graphics and digital media
 - Manage social media campaigns and boost online presence
 - Develop creative marketing strategies for brands
